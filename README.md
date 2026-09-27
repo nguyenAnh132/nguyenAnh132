@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3dkYnJoOXprbXl3Z2Iyc3lldTQ0b3E5ZXV1azA2amt5eXdmazQzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)"  />
 
 ###
 
