@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Tu Anh and I'm a Backend Software Engineer from Vietnam.</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Tu Anh and I'm a Backend Software Engineer</h2>
 
 ###
 
